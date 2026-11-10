@@ -1,6 +1,7 @@
 **Meeting Summary - How to put together and test an Upduino FPGA board**
 
 *Quick recap*
+
 This meeting was a hands-on workshop led by Bill Sievert from Washington University in St. Louis, where he guided students through assembling and testing Upduino boards with breadboards, LED modules, and wires. Bill explained the electrical connections in breadboards, demonstrating how to properly insert the Upduino into the breadboard's first column and connect wires from the Arduino pins to the LED module in the correct order starting with 3V3 to VCC. The students successfully assembled their boards and verified the connections, then used a cloud-based development environment called Codespaces to test their hardware by uploading and running test programs including an AND gate simulation written in System Verilog. The workshop successfully demonstrated the complete setup process from hardware assembly to software programming, with Bill providing additional instructions for Windows users regarding driver installation and troubleshooting tips for future work with the boards.
 
 *Next steps*
