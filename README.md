@@ -42,12 +42,3 @@ Please note: The following items were sent in the chat and might be needed to wo
     
 2026-10-26 13:26:02 From Bill Siever to Everyone:
     https://github.com/digital-logic-and-computer-design/hardware-test
-    
-2026-10-26 13:46:48 From Bill Siever to Everyone:
-    https://washu-cse2600-fl26.github.io/fpga/
-    
-2026-10-26 13:46:58 From Bill Siever to Everyone:
-    Windows driver change/update: https://washu-cse2600-fl26.github.io/fpga/
-    
-2026-10-26 13:48:03 From Bill Siever to Everyone:
-    Windows driver: https://washu-cse2600-fl26.github.io/fpga/
