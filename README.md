@@ -12,39 +12,35 @@ Professor Thomas Schmidt Notes
 - Coordinate with Bill if students have further questions about the hardware or software setup.
 
 *Collaboration*
+
 Students: If using a Windows computer, download and use the Zadig program to install/update the driver for the Arduino.
 Students: Reinstall the driver if the device does not show up or if they plug the Arduino into a different USB port.
 Students: When working in Codespaces, push changes back to their own GitHub repository to ensure work is saved outside the virtual machine.
 
-*Summary*
-Upduino Board Setup Demonstration
+*Summary - Upduino Board Setup Demonstration*
+
 Bill demonstrated how to properly connect an Upduino board to a breadboard, explaining the electrical connections and showing where to position the board and insert wires. Students practiced the setup, with Bill and Thomas providing guidance on ensuring correct placement of the board in the first column and proper wire insertion starting at the 3V3 marked position. The session focused on getting four students with complete components up and running, while noting that only six students had breadboards and Upduinos but only four had all necessary components including LEDs.
 
-LED Module Arduino Connection Guidance
+1. LED Module Arduino Connection Guidance
+
 Bill guided the team on connecting LED modules to Arduino boards, explaining the correct wire order starting with 3V3 to VCC, followed by ground and then strobe, clock, and IO connections. Thomas confirmed that most participants had successfully assembled their LED connections and discussed using rubber bands to secure the LEDs on the breadboard. The team discussed ensuring proper wire ordering to avoid connection issues, with Bill noting that incorrect wiring typically causes the circuit to not work rather than damaging components.
 
-GitHub Repository Setup Demonstration
+2. GitHub Repository Setup Demonstration
+
 Bill shared a GitHub repository for hardware testing and demonstrated the process of forking it. He explained that students would need to set up the development environment using Codespaces, which is based on Visual Studio Code. Thomas confirmed that students should all fork the repository and discussed the setup process, noting that most students at Pace University already have GitHub accounts.
 
-FPGA Development Environment Setup Demo
+3. FPGA Development Environment Setup Demo
+
 Bill demonstrated how to set up and use a cloud-hosted development environment called Codespaces to work with a field programmable gate array (FPGA) board. The session covered creating a code space, testing digital logic gates through simulation, and uploading programs to the Arduino-connected FPGA board. Bill successfully guided participants through loading test programs and an AND gate circuit, with participants successfully getting their LED boards working and running the AND gate program. The session concluded with instructions for Windows users to update their drivers and plans to continue similar sessions throughout the semester.
 
 Attendees: Thomas Schmidt (Organizer), TC38147P (External), **Natasha Larencule (External)**, Daniel Ingunxa (External), Nicola Francavilla (External), alexandralivadhi (External), Melani (External), Kymani Grant (External), Brandon Gomez (External), Tyler (External), Lloyd Boadi-Amoah (External), Bill Siever (External)
 
 Please note: The following items were sent in the chat and might be needed to work with the Upduino boards
+
 2026-10-26 13:11:54 From Bill Siever to Everyone:
     https://washu-cse2600-fl26.github.io/fpga/
     
 2026-10-26 13:26:02 From Bill Siever to Everyone:
-    https://github.com/digital-logic-and-computer-design/hardware-test
-    
-2026-10-26 13:28:15 From Thomas Schmidt to Everyone:
-    https://github.com/digital-logic-and-computer-design/hardware-test
-    
-2026-10-26 13:32:55 From Melani  to Everyone:
-    https://github.com/digital-logic-and-computer-design/hardware-test
-    
-2026-10-26 13:45:48 From Kymani Grant to Everyone:
     https://github.com/digital-logic-and-computer-design/hardware-test
     
 2026-10-26 13:46:48 From Bill Siever to Everyone:
