@@ -1,4 +1,4 @@
-**Meeting Summary - How to put together and test an Upduino FPGA board**
+**How to put together and test an Upduino FPGA board**
 
 *Quick recap*
 
